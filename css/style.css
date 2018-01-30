@@ -1,0 +1,32 @@
+body {
+  text-align:center;
+  background-color:#b3d9ff;
+    
+}
+.disappear{
+  
+  visibility:visible;
+}
+#searchBox{
+  visibility:Hidden;
+}
+
+/*use bootstrap to pretty up the  button*/
+Button {
+  
+}
+/* make a pretty format for results - div children of the results div.*/
+#results div{
+  
+}
+.item{
+  background-color:#e6e6e6;
+  text-align:center;
+  width: 50%;
+  padding:1%;
+  margin-bottom:1%;
+  margin-left:25%;
+  border-color:transparent yellow yellow transparent;
+  border-style:solid;
+  
+}
